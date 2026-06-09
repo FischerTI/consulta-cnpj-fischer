@@ -1,1 +1,1 @@
-https://fischertidev-afk.github.io/consulta-cnpj-fischer/
+https://FischerTI.github.io/consulta-cnpj-fischer/
